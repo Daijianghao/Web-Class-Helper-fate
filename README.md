@@ -1,2 +1,2 @@
 # Web-Class-Helper-fate
-fate-command for independent
+fate-command for independent.
